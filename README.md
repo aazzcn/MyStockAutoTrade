@@ -1,19 +1,6 @@
 # MyStockAutoTrade
 
 
-这里大家可能不熟悉，周末我会放在国内的网站上下载……
-
-貌似有问题，请暂停下载，晚点再来吧。
-
-程序没有修改完，还有点问题，晚点……
-
-整理中……
-
-
-可以先看下视频
-https://www.bilibili.com/video/BV1zp4y1W7qr/
-
-
 
 1、自动交易软件奉上，详细请查看exe文件夹。
 
@@ -23,12 +10,20 @@ https://www.bilibili.com/video/BV1zp4y1W7qr/
 
 4、内容基本无问题，可运行。
 
-5、帮助文档，明日再说，
 
-这几天太累了，实在撑不住了，明天继续（2021-1-22 20：50）
 
-请谅解！
 
-内容更新中，请明日再来……
+如果速度慢，可在国内下载
+
+https://wwa.lanzous.com/b0ceyac0d
+
+密码:d6yr
+
+
+可以先看下视频
+https://www.bilibili.com/video/BV1zp4y1W7qr/
+
+ 
+如果本地显示有问题，可能考虑是IE版本太低，请下载IE11.
 
 
