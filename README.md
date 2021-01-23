@@ -10,6 +10,10 @@
 整理中……
 
 
+可以先看下视频
+https://www.bilibili.com/video/BV1zp4y1W7qr/
+
+
 
 1、自动交易软件奉上，详细请查看exe文件夹。
 
